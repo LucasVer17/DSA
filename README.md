@@ -19,12 +19,18 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/LucasVer17/DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/LucasVer17/DSA/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/LucasVer17/DSA/tree/master/0189-rotate-array) |
 | [1929-concatenation-of-array](https://github.com/LucasVer17/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/LucasVer17/DSA/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/LucasVer17/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
