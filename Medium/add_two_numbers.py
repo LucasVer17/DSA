@@ -23,6 +23,9 @@ Output: [8,9,9,9,0,0,0,1]
 """
 
 
+from typing import Optional
+
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -30,7 +33,7 @@ class ListNode:
 
 
 class Solution:
-    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         """
         Time Complexity: O(max(m, n)) where m and n are lengths of l1 and l2
         Space Complexity: O(max(m, n))

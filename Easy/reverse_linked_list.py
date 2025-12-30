@@ -18,6 +18,9 @@ Output: []
 """
 
 
+from typing import Optional
+
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -25,7 +28,7 @@ class ListNode:
 
 
 class Solution:
-    def reverseList(self, head: ListNode) -> ListNode:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         """
         Time Complexity: O(n)
         Space Complexity: O(1)
@@ -43,7 +46,7 @@ class Solution:
         
         return prev
     
-    def reverseListRecursive(self, head: ListNode) -> ListNode:
+    def reverseListRecursive(self, head: Optional[ListNode]) -> Optional[ListNode]:
         """
         Time Complexity: O(n)
         Space Complexity: O(n) due to recursion stack
