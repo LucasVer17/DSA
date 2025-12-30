@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LucasVer17/DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/LucasVer17/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/LucasVer17/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/LucasVer17/DSA/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LucasVer17/DSA/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/LucasVer17/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/LucasVer17/DSA/tree/master/0283-move-zeroes) |
 | [1929-concatenation-of-array](https://github.com/LucasVer17/DSA/tree/master/1929-concatenation-of-array) |
