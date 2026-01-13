@@ -15,6 +15,7 @@ LeetCode exercises
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/LucasVer17/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ LeetCode exercises
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@ LeetCode exercises
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -46,6 +49,7 @@ LeetCode exercises
 | [0015-3sum](https://github.com/LucasVer17/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -79,6 +83,7 @@ LeetCode exercises
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
