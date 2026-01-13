@@ -32,11 +32,13 @@ LeetCode exercises
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LucasVer17/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
