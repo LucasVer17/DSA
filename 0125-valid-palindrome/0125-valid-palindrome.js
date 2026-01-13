@@ -11,7 +11,7 @@ var isPalindrome = function(s) {
         return true
     }
 
-    while(left < right)
+    while(left <= right)
     {
         if(charArr[left] !== charArr[right])
         {
