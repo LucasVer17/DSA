@@ -7,6 +7,7 @@ LeetCode exercises
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LucasVer17/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/LucasVer17/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LucasVer17/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/LucasVer17/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/LucasVer17/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ LeetCode exercises
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LucasVer17/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LucasVer17/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,4 +95,8 @@ LeetCode exercises
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/LucasVer17/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
