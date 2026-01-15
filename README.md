@@ -27,6 +27,7 @@ LeetCode exercises
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/LucasVer17/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -46,6 +47,7 @@ LeetCode exercises
 | [0049-group-anagrams](https://github.com/LucasVer17/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/LucasVer17/DSA/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
