@@ -24,6 +24,7 @@ LeetCode exercises
 | [0001-two-sum](https://github.com/LucasVer17/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/LucasVer17/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/LucasVer17/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/LucasVer17/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
@@ -46,6 +47,7 @@ LeetCode exercises
 | ------- |
 | [0049-group-anagrams](https://github.com/LucasVer17/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/LucasVer17/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LucasVer17/DSA/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
