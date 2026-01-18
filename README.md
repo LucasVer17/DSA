@@ -34,6 +34,7 @@ LeetCode exercises
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0771-jewels-and-stones](https://github.com/LucasVer17/DSA/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ LeetCode exercises
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LucasVer17/DSA/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/LucasVer17/DSA/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
