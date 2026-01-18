@@ -3,22 +3,22 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-    const map = new Set()
+    const set = new Set()
     let count = 0
     let left = 0
     let maxLen = 0
     let right = 0
     while(right < s.length)
     {
-        if(!map.has(s[right]))
+        if(!set.has(s[right]))
         {
-            map.add(s[right])
+            set.add(s[right])
             right++
             count = right - left
         }
-        else if(map.has(s[right]))
+        else if(set.has(s[right]))
         {
-            map.delete(s[left])
+            set.delete(s[left])
             left++
             count = 0
         }
