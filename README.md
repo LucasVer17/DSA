@@ -20,6 +20,7 @@ LeetCode exercises
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/LucasVer17/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/LucasVer17/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ LeetCode exercises
 | [0409-longest-palindrome](https://github.com/LucasVer17/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/LucasVer17/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/LucasVer17/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/LucasVer17/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/LucasVer17/DSA/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
@@ -108,6 +110,7 @@ LeetCode exercises
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LucasVer17/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/LucasVer17/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
