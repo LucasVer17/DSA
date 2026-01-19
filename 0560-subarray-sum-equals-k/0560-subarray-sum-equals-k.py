@@ -1,12 +1,16 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        count = {}
-        prefix = 0
-        result = 0
+        currSum = 0
+        hashmap = {0:1}
+        ans = 0
         for num in nums:
-            count[prefix] = count.get(prefix, 0) + 1
-            prefix += num
-            need = prefix - k
-            if(need in count):
-                result += count[need]
-        return result
+            currSum += num
+            val = currSum - k
+            if val in hashmap:
+                ans += hashmap[val]
+            if currSum in hashmap:
+                hashmap[currSum] += 1
+            else:
+                hashmap[currSum] = 1
+
+        return ans
