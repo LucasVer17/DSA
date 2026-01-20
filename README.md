@@ -17,6 +17,7 @@ LeetCode exercises
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/LucasVer17/DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/LucasVer17/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -77,6 +78,7 @@ LeetCode exercises
 | [0015-3sum](https://github.com/LucasVer17/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/LucasVer17/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
