@@ -13,7 +13,6 @@ var middleNode = function(head) {
 
     let fast = head
     let slow = head
-    let returnArr = []
 
     while (fast !== null && fast.next !== null) {
         slow = slow.next
