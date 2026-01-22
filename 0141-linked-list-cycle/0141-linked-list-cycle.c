@@ -6,20 +6,17 @@
  * };
  */
 bool hasCycle(struct ListNode *head) {
-    struct ListNode* devagar = head;
-    struct ListNode* rapido = head;
+    struct ListNode *slow = head;
+    struct ListNode *fast = head;
 
-    while(rapido != 0 && rapido->next != 0)
-    {
-        devagar = devagar->next;
-        rapido = rapido->next->next;
+    while (fast != NULL && fast->next != NULL) {
+        slow = slow->next;   
+        fast = fast->next->next;    
 
-        if(devagar == rapido)
-        {
-            return true;
+        if (slow == fast) {
+            return true;            
         }
     }
-
-    return false;
+    return false;     
 
 }
