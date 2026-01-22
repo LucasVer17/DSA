@@ -86,6 +86,7 @@ LeetCode exercises
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/LucasVer17/DSA/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/LucasVer17/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +149,8 @@ LeetCode exercises
 |  |
 | ------- |
 | [0136-single-number](https://github.com/LucasVer17/DSA/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/LucasVer17/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
