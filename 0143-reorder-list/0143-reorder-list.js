@@ -17,15 +17,12 @@ var reorderList = function(head) {
         fast = fast.next.next
         slow = slow.next
     }
-    let middle = slow
 
     let prev = null
-    let cur = middle.next
-    middle.next = null
-    let next = middle
+    let cur = slow
     while(cur != null)
     {
-        next = cur.next
+        let next = cur.next
         cur.next = prev
         prev = cur
         cur =  next
@@ -33,7 +30,7 @@ var reorderList = function(head) {
 
     let first = head
     let second = prev
-    while(second != null)
+    while(second.next != null)
     {
         let temp1 = first.next
         let temp2 = second.next
