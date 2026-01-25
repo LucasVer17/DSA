@@ -3,25 +3,26 @@
  * @return {boolean}
  */
 var isHappy = function(n) {
-    let resultado = n.toString().split("").map(Number);
-    const set = new Set();
-
-
-    while (true) 
+    const seen = new Set();
+    while (n !== 1) 
     {
         let total = 0;
+        let x = n;
 
-        for (let num of resultado) 
+
+        while (x > 0) 
         {
-            total += num ** 2;
+            let d = x % 10;
+            total += d * d;
+            x = Math.floor(x / 10);
         }
-        
-        if (total === 1) return true;
 
-        if (set.has(total)) return false;
+        if (seen.has(total)) return false;
 
-        set.add(total);
-        resultado = total.toString().split("").map(Number);
+        seen.add(total);
+        n = total;
     }
-    return true
+
+
+    return true;
 };
