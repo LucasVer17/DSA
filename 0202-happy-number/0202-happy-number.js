@@ -23,6 +23,5 @@ var isHappy = function(n) {
         n = total;
     }
 
-
     return true;
 };
