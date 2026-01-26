@@ -98,10 +98,12 @@ LeetCode exercises
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LucasVer17/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LucasVer17/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/LucasVer17/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -162,6 +164,7 @@ LeetCode exercises
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LucasVer17/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/LucasVer17/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/LucasVer17/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/LucasVer17/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LucasVer17/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/LucasVer17/DSA/tree/master/0143-reorder-list) |
@@ -181,4 +184,8 @@ LeetCode exercises
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/LucasVer17/DSA/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LucasVer17/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
