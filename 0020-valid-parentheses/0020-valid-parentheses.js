@@ -11,17 +11,17 @@ var isValid = function(s) {
     }
     for(let char of s)
     {
-        if(char == '(' || char == '[' || char == '{')
-        {
-            stack.push(char)
-        }
-        else 
+        if(char in map)
         {
             if (stack.pop() !== map[char]) 
             {
                 return false;
             }
         }
+        else 
+        {
+            stack.push(char)
+        }
     }
-    return stack.length == 0 
+    return stack.length == 0
 };
