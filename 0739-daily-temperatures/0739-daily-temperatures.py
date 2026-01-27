@@ -8,7 +8,5 @@ class Solution:
                 stack.pop()
             if stack:
                 return_arr[i] = stack[-1] - i
-            else:
-                return_arr[i] = 0
             stack.append(i)
         return return_arr
