@@ -13,6 +13,7 @@ LeetCode exercises
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LucasVer17/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/LucasVer17/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/LucasVer17/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -137,6 +138,7 @@ LeetCode exercises
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
