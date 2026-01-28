@@ -23,6 +23,7 @@ LeetCode exercises
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/LucasVer17/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/LucasVer17/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/LucasVer17/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/LucasVer17/DSA/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/LucasVer17/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -139,6 +140,7 @@ LeetCode exercises
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/LucasVer17/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LucasVer17/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/LucasVer17/DSA/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
