@@ -17,6 +17,7 @@ LeetCode exercises
 | [0136-single-number](https://github.com/LucasVer17/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LucasVer17/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/LucasVer17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LucasVer17/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/LucasVer17/DSA/tree/master/0238-product-of-array-except-self) |
@@ -40,6 +41,7 @@ LeetCode exercises
 | [0128-longest-consecutive-sequence](https://github.com/LucasVer17/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/LucasVer17/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LucasVer17/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/LucasVer17/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LucasVer17/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/LucasVer17/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
@@ -60,6 +62,7 @@ LeetCode exercises
 | ------- |
 | [0015-3sum](https://github.com/LucasVer17/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/LucasVer17/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/LucasVer17/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/LucasVer17/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LucasVer17/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -107,6 +110,7 @@ LeetCode exercises
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LucasVer17/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LucasVer17/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/LucasVer17/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -122,6 +126,7 @@ LeetCode exercises
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LucasVer17/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/LucasVer17/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/LucasVer17/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/LucasVer17/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
