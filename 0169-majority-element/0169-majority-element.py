@@ -1,11 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         dic = {}
-        frequencia_max = 0
-        resultado = nums[0]
+        total = 0
+        total_return = 0
         for i in nums:
-            contagem = dic[i] = dic.get(i, 0) + 1
-            if contagem > frequencia_max:
-                frequencia_max = contagem
-                resultado = i
-        return resultado
+                dic[i] = dic.get(i, 0) + 1
+        for k, v in dic.items():
+            if v > total:
+                total = v
+                total_return = k
+        return total_return
