@@ -3,11 +3,8 @@ class Solution:
         dic = {}
         total = 0
         total_return = 0
-        for i in range(len(nums)):
-            if nums[i] not in dic:
-                dic[nums[i]] = 1
-            else:
-                dic[nums[i]] += 1
+        for i in nums:
+            dic[i] = dic.get(i, 0) + 1
         for k, v in dic.items():
             if v > total:
                 total = v
