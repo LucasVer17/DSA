@@ -5,8 +5,4 @@ class Solution:
         total_return = 0
         for i in nums:
             dic[i] = dic.get(i, 0) + 1
-        for k, v in dic.items():
-            if v > total:
-                total = v
-                total_return = k
-        return total_return
+        return max(dic, key=dic.get)
