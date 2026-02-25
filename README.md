@@ -9,6 +9,7 @@ LeetCode exercises
 | [0001-two-sum](https://github.com/LucasVer17/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/LucasVer17/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LucasVer17/DSA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/LucasVer17/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LucasVer17/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -93,6 +94,7 @@ LeetCode exercises
 | [0011-container-with-most-water](https://github.com/LucasVer17/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LucasVer17/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LucasVer17/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LucasVer17/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LucasVer17/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LucasVer17/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LucasVer17/DSA/tree/master/0142-linked-list-cycle-ii) |
